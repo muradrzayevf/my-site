@@ -8,14 +8,13 @@ permalink: /
   <div class="hero-text">
     <h1>Hi, I'm <span>Murad Rzayev</span></h1>
     <p class="lead">
-      I am an IT student at ADA University in Baku, passionate about cybersecurity, software engineering, and using technology to solve real-world problems in Azerbaijan.
+      I am an IT student at ADA University in Baku, passionate about cybersecurity, and software engineering.
     </p>
 
     <div class="hero-tags">
       <span class="tag">IT Student @ ADA</span>
       <span class="tag">Cybersecurity Enthusiast</span>
       <span class="tag">Back-End Developer</span>
-      <span class="tag">GenAI & Jekyll Learner</span>
     </div>
 
     <div class="hero-actions">
@@ -46,7 +45,7 @@ permalink: /
     </div>
     <div class="info-card">
       <h3>Software Engineering</h3>
-      <p>From Python and Tkinter to web technologies, I like turning ideas into working tools that help people, not just demo projects.</p>
+      <p>I’m currently learning backend development with Node.js, Express, and MongoDB, and I enjoy turning ideas into small working tools rather than just demo projects.</p>
     </div>
   </div>
 </section>
