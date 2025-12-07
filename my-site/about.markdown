@@ -1,18 +1,45 @@
 ---
-layout: page
-title: About
+layout: default
+title: "About"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<section class="section">
+  <h1 class="section-title">About me</h1>
+  <p class="section-subtitle">
+    I am Murad Rzayev, an Information Technologies student at ADA University in Baku, Azerbaijan. I am especially interested in cybersecurity, and software development.
+  </p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+  <div class="info-grid">
+    <div class="info-card">
+      <h3>Education</h3>
+      <p>
+        I am currently studying IT at ADA University. My coursework includes public speaking, information systems, and academic writing. 
+        I plan to continue my education abroad in fields related to cybersecurity and software engineering.
+      </p>
+    </div>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+    <div class="info-card">
+      <h3>Technical skills</h3>
+      <p>
+        <strong>Web:</strong> HTML, CSS, basic Jekyll, Git & GitHub, Javascript, Node.js, Express.js, MongoDB<br>
+      </p>
+    </div>
 
+    <div class="info-card">
+      <h3>Activities & experience</h3>
+      <p>
+        I have participated in national programming contests such as ARIO, where I reached the semi-finals.
+        I am also active in student life and volunteer events, for example supporting international students as part of ESN.
+      </p>
+    </div>
 
-[jekyll-organization]: https://github.com/jekyll
+    <div class="info-card">
+      <h3>Interests</h3>
+      <p>
+        Outside of classes, I like playing the guitar, chess, and football, which help me relax and keep balance between study and life.
+      </p>
+    </div>
+
+  </div>
+</section>
